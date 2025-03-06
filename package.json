@@ -56,7 +56,7 @@
     "webextension-polyfill": "^0.12.0",
     "with-local-tmp-dir": "^5.0.1"
   },
-  "packageManager": "pnpm@9.15.3+sha256.c1da43727ccbc1ed42aff4fd6bdb4b1e91e65a818e6efff5b240fbf070ba4eaf",
+  "packageManager": "pnpm@9.15.7+sha512.ed98f9c748442673c46964b70345bd2282c9b305e8eae539b34ab31d6ef24ef8dd59d8b55f27466f705500b009d9c113471cf87e544f3d5036b297330c26e996",
   "engines": {
     "node": ">=18"
   },
